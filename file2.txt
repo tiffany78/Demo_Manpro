@@ -1,1 +1,2 @@
 edit baris 1 di repo lokal
+edit baris 2 di repo remote
